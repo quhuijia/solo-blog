@@ -10,9 +10,9 @@ QHJ 的个人博客
 
 ### 最新
 
-* [signalR使用总结](http://orzwizard.vip/articles/2019/11/18/1574054180349.html)
-* [安装使用solo博客](http://orzwizard.vip/articles/2019/11/18/1574043748049.html)
-* [世界，你好！](http://orzwizard.vip/hello-solo)
+* [signalR使用总结](https://orzwizard.vip/articles/2019/11/18/1574054180349.html)
+* [安装使用solo博客](https://orzwizard.vip/articles/2019/11/18/1574043748049.html)
+* [世界，你好！](https://orzwizard.vip/hello-solo)
 
 
 
