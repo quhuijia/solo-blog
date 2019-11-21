@@ -10,9 +10,9 @@ QHJ 的个人博客
 
 ### 最新
 
-* [使用xshell终端连接腾讯云](http://orzwizard.vip/articles/2019/11/20/1574231665415.html)
-* [signalR使用总结](http://orzwizard.vip/articles/2019/11/18/1574054180349.html)
-* [安装使用solo博客](http://orzwizard.vip/articles/2019/11/18/1574043748049.html)
+* [使用xshell终端连接腾讯云](https://orzwizard.vip/articles/2019/11/20/1574231665415.html)
+* [signalR使用总结](https://orzwizard.vip/articles/2019/11/18/1574054180349.html)
+* [安装使用solo博客](https://orzwizard.vip/articles/2019/11/18/1574043748049.html)
 
 
 
