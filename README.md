@@ -10,6 +10,7 @@ QHJ 的个人博客
 
 ### 最新
 
+* [简单搭建EFK管理日志](https://orzwizard.vip/articles/2019/12/09/1575861660671.html)
 * [visual studio2019 使用docker简单体验](https://orzwizard.vip/articles/2019/12/03/1575361273269.html)
 * [win10子系统WSL安装docker](https://orzwizard.vip/articles/2019/12/03/1575359168587.html)
 * [docker简介及简单操作](https://orzwizard.vip/articles/2019/11/28/1574931189209.html)
